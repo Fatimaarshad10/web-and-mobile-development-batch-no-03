@@ -15,6 +15,9 @@
        <td>Day 01: Saturday, [04/01/2025]</td>
       <td>Orientation</td>
       <td>Introduction to >Web & Mobile Development</td>
+       <td>Day 02: Sunday, [05/01/2025]</td>
+      <td>HTML</td>
+      <td>Tags: Understanding Text</td>
     </tr>
   </tbody>
 </table>
