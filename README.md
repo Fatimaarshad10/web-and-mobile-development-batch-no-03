@@ -18,6 +18,9 @@
        <td>Day 02: Sunday, [05/01/2025]</td>
       <td>HTML</td>
       <td>Tags: Understanding Text</td>
+      <td>Day 03: Saturday, [11/01/2025]</td>
+      <td>HTML</td>
+      <td>Order list & unorder list</td>
     </tr>
   </tbody>
 </table>
