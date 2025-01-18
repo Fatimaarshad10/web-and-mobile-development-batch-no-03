@@ -22,6 +22,11 @@
       <td>HTML</td>
       <td>Order list & unorder list</td>
     </tr>
+     <tr>
+      <td>HTML</td>
+      <td>Day 04: Saturday, [18/01/2025]</td>
+      <td>Tag Table</td>
+    </tr>
   </tbody>
 </table>
 
