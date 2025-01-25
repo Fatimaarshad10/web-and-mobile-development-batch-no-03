@@ -1,6 +1,8 @@
 # Web-and-Mobile-Development-Batch-No-03
 
 ## Schedule
+![Schedule](./learn.jpeg)
+
 
 ### Web & Mobile Development
 | Days                 | Class Focus        | Completed Sections                  |
