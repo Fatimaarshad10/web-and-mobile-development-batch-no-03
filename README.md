@@ -1,7 +1,7 @@
 # Web-and-Mobile-Development-Batch-No-03
 
 ## Schedule
-![Schedule](./learn.jpeg)
+![Schedule](./learn1.jpeg)
 
 
 ### Web & Mobile Development
