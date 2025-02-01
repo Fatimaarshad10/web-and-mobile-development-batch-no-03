@@ -15,6 +15,8 @@
 | Day 06: Sunday,   19/01/2025 | HTML               | Tag: From                          |
 | Day 06: Saturday, 25/01/2025 | HTML               | Block&Inline,audio&video,div&span  |
 | Day 07: Sunday,   26/01/2025 | CSS                | Color , Background-color , font-size padding , margin|
+| Day 07: Saturday, 01/02/2025 | CSS                | Font & Text In CSS|
+
 
 
 
