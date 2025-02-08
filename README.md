@@ -13,12 +13,11 @@
 | Day 04: Sunday,   12/01/2025 | HTML               | Anchor , Image tag                 |
 | Day 05: Saturday, 18/01/2025 | HTML               | Tag: Table                         |
 | Day 06: Sunday,   19/01/2025 | HTML               | Tag: From                          |
-| Day 06: Saturday, 25/01/2025 | HTML               | Block&Inline,audio&video,div&span  |
-| Day 07: Sunday,   26/01/2025 | CSS                | Color , Background-color , font-size padding , margin|
-| Day 07: Saturday, 01/02/2025 | CSS                | Font & Text In CSS|
-| Day 08: Sunday,   02/02/2025 | CSS                | Align , pseudo element , text-shadow|
-
-
+| Day 07: Saturday, 25/01/2025 | HTML               | Block&Inline,audio&video,div&span  |
+| Day 08: Sunday,   26/01/2025 | CSS                | Color , Background-color , font-size padding , margin|
+| Day 09: Saturday, 01/02/2025 | CSS                | Font & Text In CSS|
+| Day 10: Sunday,   02/02/2025 | CSS                | Align , pseudo element , text-shadow|
+| Day 11: Saturday, 08/02/2025 | CSS                | Boxes , width , height|
 
 
 
