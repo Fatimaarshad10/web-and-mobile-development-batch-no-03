@@ -19,6 +19,8 @@
 | Day 10: Sunday,   02/02/2025 | CSS                | Align , pseudo element , text-shadow|
 | Day 11: Saturday, 08/02/2025 | CSS                | Boxes , width , height|
 | Day 12: Sunday,   09/02/2025 | Off                | Day off |
+| Day 12: Saturday, 15/02/2025 | Off                | Day off |
+
 
 
 
