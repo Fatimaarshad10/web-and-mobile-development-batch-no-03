@@ -18,9 +18,10 @@
 | Day 09: Saturday, 01/02/2025 | CSS                | Font & Text In CSS|
 | Day 10: Sunday,   02/02/2025 | CSS                | Align , pseudo element , text-shadow|
 | Day 11: Saturday, 08/02/2025 | CSS                | Boxes , width , height|
-| Day 12: Sunday,   09/02/2025 | Off                | Day off |
-| Day 12: Saturday, 15/02/2025 | Off                | Day off |
-| Day 12: Saturday, 22/02/2025 | Off                | Day off |
+| Day 12: Sunday,   09/02/2025 | CSS                | Day off |
+| Day 13: Saturday, 15/02/2025 | Off                | Day off |
+| Day 14: Sunday,   16/02/2025 | CSS(4 hour)                | display , inline/block , flex |
+| Day 15: Saturday, 22/02/2025 | Off                | Day off |
 
 
 
