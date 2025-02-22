@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatbot</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .chat-container { width: 500px; margin: 0 auto; }
+        .chat-box { border: 1px solid #ccc; padding: 10px; height: 400px; overflow-y: scroll; }
+        .chat-input { width: 100%; padding: 10px; }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-box" id="chat-box"></div>
+        <input type="text" id="chat-input" class="chat-input" placeholder="Type a message..." onkeypress="sendMessage(event)">
+    </div>
+    <script>
+        function sendMessage(event) {
+            if (event.key === 'Enter') {
+                var input = document.getElementById('chat-input');
+                var message = input.value;
+                input.value = '';
+                var chatBox = document.getElementById('chat-box');
+                chatBox.innerHTML += '<div><strong>You:</strong> ' + message + '</div>';
+                fetch('/get?msg=' + message)
+                    .then(response => response.text())
+                    .then(data => {
+                        chatBox.innerHTML += '<div><strong>Bot:</strong> ' + data + '</div>';
+                        chatBox.scrollTop = chatBox.scrollHeight;
+                    });
+            }
+        }
+    </script>
+</body>
+</html>
