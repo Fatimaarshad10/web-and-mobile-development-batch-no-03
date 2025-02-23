@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class no 11</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        body {
+            /* background-image: linear-gradient(orange, white); */
+
+        }
+        .container {
+            background-image: url('./girl.jpg');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            border: 10px solid black;
+            padding: 100px;
+            background-clip: content-box;
+            text-align: center;
+            width: 50%;
+            height: 50vh;
+            color: white;
+
+        }
+
+        form {
+            border-radius: 25px;
+            box-shadow: 27px 27px 30px #a3a2a2,
+                -27px -27px 30px #f0f0f0;
+            display: flex;
+            flex-direction: column;
+            /* justify-content: space-around; */
+            gap: 10px;
+            padding: 50px;
+            width: 50%;
+            margin: 0% auto;
+            border-radius: 10px;
+            background-color: white;
+
+
+        }
+
+        button {
+            border: none;
+            background-color: rgb(239, 155, 0);
+            padding: 10px;
+            color: white;
+            width: 50%;
+            font-weight: 800;
+            margin: 0% auto;
+            border-radius: 10px;
+
+        }
+
+        input {
+            border-radius: 30px;
+            background-color: rgb(244, 219, 173);
+            border: none;
+            background-repeat: no-repeat;
+            background-position: 10px 12px;
+            background-size: 10px;
+            padding: 10px;
+        }
+        input[type=text]{
+            background-image: url('./user-solid.svg');
+
+        }
+        input[type=password]{
+            background-image: url('./lock-solid.svg');
+
+        }
+        input[type=email]{
+            background-image: url('./envelope-solid.svg');
+
+        }
+
+
+        h1 {
+            text-align: center;
+        }
+        input:focus {
+            outline: none;
+            border: 1px solid red;
+        }
+
+        i {
+            text-align: center;
+            font-size: 40px;
+            color: white;
+            width: 50px;
+            margin: 0% auto;
+            padding: 15px;
+            background-color: orange;
+            border-radius: 60px;
+
+        }
+    </style>
+</head>
+
+<body>
+    <!-- <div class="container">
+        <h1>Image</h1>
+        <h1>Image</h1>
+        <h1>Image</h1>
+        <h1>Image</h1>
+        <h1>Image</h1>
+        <h1>Image</h1>
+        <h1>Image</h1>
+        <h1>Image</h1>
+    </div> -->
+
+    <form>
+        <i class="fa-solid fa-cloud"></i>
+        <h1>Online Registration</h1>
+        <label>Name</label>
+        <input type="text"  />
+        <label>Email</label>
+        <input type="email"  />
+        <label>Password</label>
+        <input type="password"  />
+        <button>Register Now</button>
+    </form>
+</body>
+
+</html>
