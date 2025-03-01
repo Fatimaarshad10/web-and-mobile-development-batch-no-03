@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class no 12</title>
+</head>
+<style>
+    h2 {
+        position: sticky;
+        top: 0px;
+        background-color: black;
+        color: white;
+        border: 1px solid black;
+    }
+
+    p {
+        /* position: fixed;
+        left: 200px;
+        top: 100px; */
+        float: left;
+        width: 50%;
+    }
+
+    /* .relative {
+        float: right;
+        position: relative;
+        padding: 30px;
+        background-color: purple;
+        transform: rotate(20deg);
+        margin-top: 100px;
+        left: 30px;
+        width: 50%;
+        height: 30vh;
+        z-index: 3;
+    } */
+
+    /* .absolute {
+        width: 10%;
+        height: 10vh;
+        position: absolute;
+        background-color: cadetblue;
+        border-radius: 50%;
+        top: -5px;
+       right: -10px;
+        z-index: -1;
+    } */
+    .relative {
+        position: relative;
+        width: 50%;
+        background-color: rgb(255, 195, 195);
+        height: 30vh;
+        top: 30px;
+        left: 30px;
+        z-index: 3;
+    }
+
+    .absolute {
+        position: absolute;
+        background-color: rgb(196, 196, 196);
+        width: 100%;
+        height: 20vh;
+        /* left: 30px;
+        top: 30px; */
+        z-index: 2;
+    }
+    .absolute-1 {
+        position: absolute;
+        background-color: rgb(211, 121, 121);
+        width: 50%;
+        left: 30px;
+        top: 30px;
+        z-index: 0;
+    }
+</style>
+
+<body>
+    <!-- <h2>Sticky Heading</h2>
+
+    <h1>Heading</h1>
+    <h1>Heading</h1>
+    <h1>Heading</h1>
+    <h1>Heading</h1>
+    <h1>Heading</h1>
+    <h1>Heading</h1>
+    <h1>Heading</h1>
+    <h1>Heading</h1>
+    <h1>Heading</h1>
+    <h1>Heading</h1>
+    <h1>Heading</h1>
+    <h1>Heading</h1> -->
+
+    <div class="relative">
+     
+        
+        <div class="absolute-1">
+            Lorem ipsum dolor sit amet consectetur
+        </div>
+    </div>
+    <div class="absolute">
+    </div>
+</body>
+
+</html>
