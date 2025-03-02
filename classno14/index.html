@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Transition Example</title>
+    <style>
+        /* For Box */
+        .box {
+            width: 100px;
+            height: 100px;
+            background: red;
+            transition: width 2s, height 2s, background-color 2s;
+        }
+
+        .box:hover {
+            width: 300px;
+            height: 150px;
+            background: blue;
+        }
+
+        /* For circle */
+        .circle {
+            width: 100px;
+            height: 100px;
+            background: green;
+            border-radius: 0%;
+            transition: background-color 1s ease, border-radius 1s ease;
+        }
+
+        .circle:hover {
+            background: yellow;
+            border-radius: 50%;
+        }
+
+        /* For rotate */
+        .rotate-box {
+            width: 100px;
+            height: 100px;
+            background: blue;
+            transition: transform 1.2s ease-in-out;
+        }
+
+        .rotate-box:hover {
+            transform: rotate(360deg);
+        }
+
+        /* For zoom in  */
+        .zoom {
+            width: 100px;
+            height: 100px;
+            background: purple;
+            transition: transform 0.5s ease-in-out;
+        }
+
+        .zoom:hover {
+            transform: scale(1.5);
+        }
+
+        /* for Button */
+        .btn {
+            padding: 15px 30px;
+            background: #ff5733;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 18px;
+            transition: background-color 0.4s, transform 0.3s;
+        }
+
+        .btn:hover {
+            background: #c70039;
+            transform: translateY(-5px);
+        }
+    </style>
+</head>
+
+<body>
+    <!-- transition: [property] [duration] [timing-function] [delay];  -->
+    <div class="box"></div>
+    <div class="circle"></div>
+    <div class="rotate-box"></div>
+    <div class="zoom"></div>
+    <button class="btn">Hover Me</button>
+</body>
+
+</html>

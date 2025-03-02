@@ -22,7 +22,11 @@
 | Day 13: Saturday, 15/02/2025 | Off                | Day off |
 | Day 14: Sunday,   16/02/2025 | CSS(4 hour)        | display , inline/block , flex |
 | Day 15: Saturday, 22/02/2025 | Off                | Day off |
-| Day 15: Sunday,   23/02/2025 | CSS(4 hour)        | Background Image & Form styling |
+| Day 16: Sunday,   23/02/2025 | CSS(4 hour)        | Background Image & Form styling |
+| Day 17: Saturday, 01/03/2025 | CSS                | Position & Transform |
+| Day 18: Sunday, 02/03/2025   | CSS                | Transition & before  & after |
+
+
 
 
 
