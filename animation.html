@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Animation</title>
+    <style>
+        .box {
+            width: 100px;
+            height: 100px;
+            background: red;
+            position: relative;
+            animation: moveBox 3s infinite alternate;
+        }
+
+        @keyframes moveBox {
+            0% {
+                left: 0px;
+            }
+
+            100% {
+                left: 300px;
+            }
+        }
+
+        .ball {
+            width: 50px;
+            height: 50px;
+            background: blue;
+            border-radius: 50%;
+            position: relative;
+            animation: bounce 1s infinite alternate ease-in-out;
+        }
+
+        @keyframes bounce {
+            0% {
+                top: 0px;
+            }
+
+            100% {
+                top: 200px;
+            }
+        }
+
+        .loader {
+            width: 50px;
+            height: 50px;
+            border: 5px solid lightgray;
+            border-top-color: blue;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        .fade-text {
+            font-size: 30px;
+            font-weight: bold;
+            animation: fade 2s infinite alternate;
+        }
+
+        @keyframes fade {
+            0% {
+                opacity: 0;
+            }
+
+            100% {
+                opacity: 1;
+            }
+        }
+
+        h1::before {
+            content: "🔥 ";
+        }
+
+        h1::after {
+            content: " 🚀";
+        }
+
+        .btn {
+            background: #0071e3;
+            color: white;
+            padding: 15px 30px;
+            font-size: 18px;
+            border: none;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .btn::after {
+            content: " ➜";
+            font-size: 20px;
+            transition: transform 0.3s;
+        }
+
+        .btn:hover::after {
+            transform: translateX(5px);
+        }
+
+        .tooltip {
+            position: relative;
+            display: inline-block;
+            cursor: pointer;
+            padding: 10px;
+            background: #0071e3;
+            color: white;
+        }
+
+        .tooltip::after {
+            content: "Click for more info";
+            position: absolute;
+            bottom: 120%;
+            left: 50%;
+            transform: translateX(-50%);
+            background: black;
+            color: white;
+            padding: 5px 10px;
+            font-size: 12px;
+            border-radius: 5px;
+            white-space: nowrap;
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.3s ease;
+        }
+
+        .tooltip:hover::after {
+            opacity: 1;
+            visibility: visible;
+        }
+        .loading::after {
+            content: "...";
+            animation: dots 1.5s infinite;
+        }
+
+        @keyframes dots {
+            0%   { content: "."; }
+            50%  { content: ".."; }
+            100% { content: "..."; }
+        }
+        .product {
+            width: 200px;
+            height: 200px;
+            background: lightgray;
+            position: relative;
+        }
+
+        .product::before {
+            content: "SALE";
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: red;
+            color: white;
+            padding: 5px 10px;
+            font-size: 14px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+ <!-- @keyframes animation-name {
+        0%   { property: value; }
+        50%  { property: value; }
+        100% { property: value; }
+    } -->
+    <!-- You can use percentages (0% to 100%) or keywords (from and to). -->
+    <div class="box"></div>
+    <div class="ball"></div>
+    <div class="fade-text">Welcome to Netflix</div>
+    <div class="loader"></div>
+    <h1>Welcome to CSS</h1>
+
+    <button class="btn">Click Me</button>
+    <button class="tooltip">Hover Me</button>
+    <p class="loading">Loading</p>
+    <div class="product"></div>
+
+</body>
+
+</html>
