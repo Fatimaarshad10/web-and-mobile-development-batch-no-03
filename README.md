@@ -24,7 +24,13 @@
 | Day 15: Saturday, 22/02/2025 | Off                | Day off |
 | Day 16: Sunday,   23/02/2025 | CSS(4 hour)        | Background Image & Form styling |
 | Day 17: Saturday, 01/03/2025 | CSS                | Position & Transform |
-| Day 18: Sunday, 02/03/2025   | CSS                | Transition & before  & after |
+| Day 18: Sunday,   02/03/2025 | CSS                | Transition & before  & after |
+| Day 19: Saturday, 08/03/2025 | CSS                | Animation |
+| Day 20: Sunday,   09/03/2025 | CSS                | Website hero section  |
+| Day 21: Saturday, 15/03/2025 | CSS                | Grid Layout |
+
+
+
 
 
 
