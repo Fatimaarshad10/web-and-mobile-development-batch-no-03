@@ -28,6 +28,9 @@
 | Day 19: Saturday, 08/03/2025 | CSS                | Animation |
 | Day 20: Sunday,   09/03/2025 | CSS                | Website hero section  |
 | Day 21: Saturday, 15/03/2025 | CSS                | Grid Layout |
+| Day 22: Sunday,   16/03/2025 | CSS                | Clamp , calc , repeat , bootstrap demo |
+
+
 
 
 
