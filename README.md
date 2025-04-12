@@ -29,6 +29,21 @@
 | Day 20: Sunday,   09/03/2025 | CSS                | Website hero section  |
 | Day 21: Saturday, 15/03/2025 | CSS                | Grid Layout |
 | Day 22: Sunday,   16/03/2025 | CSS                | Clamp , calc , repeat , bootstrap demo |
+| Day 23: Saturday, 22/03/2025 | bootstrap          | Navbar 
+| Day 24: Sunday,   23/03/2025 | bootstrap          | lg , md , sm 
+| Day 25: Saturday, 29/03/2025 | bootstrap          | Cards , form
+| Day 26: Sunday,   30/03/2025 | bootstrap          | Eid Cards
+| Day 27: Saturday, 05/04/2025 | JavaScript         | Data Types , Console.log
+| Day 28: Sunday,   06/04/2025 | JavaScript         | Operators
+| Day 29: Saturday, 12/04/2025 | JavaScript         | Assignment Operator , Logical Operator
+
+
+
+
+
+
+
+
 
 
 
