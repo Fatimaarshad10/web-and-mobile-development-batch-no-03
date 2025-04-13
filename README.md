@@ -36,6 +36,8 @@
 | Day 27: Saturday, 05/04/2025 | JavaScript         | Data Types , Console.log
 | Day 28: Sunday,   06/04/2025 | JavaScript         | Operators
 | Day 29: Saturday, 12/04/2025 | JavaScript         | Assignment Operator , Logical Operator
+| Day 30: Sunday,   12/04/2025 | JavaScript         | Intro Array , Object , Function 
+
 
 
 
