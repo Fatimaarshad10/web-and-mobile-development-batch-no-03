@@ -1,0 +1,66 @@
+.main-container {
+    display: flex;
+}
+
+.left {
+    width: 50%;
+    align-self: center;
+    padding-inline: 4rem;
+    padding-block: 2rem;
+
+}
+.right {
+    width: 50%;
+    text-align: center;
+}
+.hero-image-1  {
+    width:100%;
+}
+
+@media (max-width : 750px){
+    .main-container { 
+        flex-direction: column;
+        text-align: center;
+    }
+    .left , .right {
+        width: 100%;
+    }
+    .hero-image-1 {
+        width: 70%;
+    }
+    nav {
+       flex-direction: column;
+       padding: 1rem;
+       gap: 24px;
+    }
+    .hero-btn {
+        justify-content: center;
+    }
+    .about-rate {
+        flex-direction: column;
+    }
+    .service-cards{
+flex-direction: column;
+    }
+    
+}
+@media (max-width : 600px){
+    .hero-image-1 {
+        width: 100%;
+    }
+    .left {
+        padding: 1rem;
+    }
+    .nav-links ul {
+     flex-direction: column;
+     text-align: center;
+    }
+    .hero-btn {
+        flex-direction: column;
+        align-items: center;
+    } 
+    .about-text {
+        width: 100%;
+    }
+
+}
