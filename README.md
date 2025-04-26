@@ -37,6 +37,10 @@
 | Day 28: Sunday,   06/04/2025 | JavaScript         | Operators
 | Day 29: Saturday, 12/04/2025 | JavaScript         | Assignment Operator , Logical Operator
 | Day 30: Sunday,   12/04/2025 | JavaScript         | Intro Array , Object , Function 
+| Day 31: Saturday, 19/04/2025 | JavaScript         | Hackathon html and css website
+| Day 32: Sunday,   20/04/2025 | JavaScript         | Responsive 
+| Day 33: Saturday, 26/04/2025 | JavaScript         | for , while , if else condition
+
 
 
 
