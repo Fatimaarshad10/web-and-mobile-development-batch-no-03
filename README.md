@@ -40,6 +40,8 @@
 | Day 31: Saturday, 19/04/2025 | JavaScript         | Hackathon html and css website
 | Day 32: Sunday,   20/04/2025 | JavaScript         | Responsive 
 | Day 33: Saturday, 26/04/2025 | JavaScript         | for , while , if else condition
+| Day 33: Sunday,   27/04/2025 | JavaScript         | Prompt , String (slice , charAt , upper , lower)
+
 
 
 
