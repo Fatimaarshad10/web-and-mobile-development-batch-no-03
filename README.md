@@ -40,9 +40,10 @@
 | Day 31: Saturday, 19/04/2025 | JavaScript         | Hackathon html and css website
 | Day 32: Sunday,   20/04/2025 | JavaScript         | Responsive 
 | Day 33: Saturday, 26/04/2025 | JavaScript         | for , while , if else condition
-| Day 33: Sunday,   27/04/2025 | JavaScript         | Prompt , String (slice , charAt , upper , lower)
-| Day 34: Saturday, 03/05/2025 | JavaScript         | String (split , concat ) , Array (toString)
-| Day 34: Sunday,   04/05/2025 | JavaScript         |  Array (toString), concat , length , pop , push , unshift , shift , splice
+| Day 34: Sunday,   27/04/2025 | JavaScript         | Prompt , String (slice , charAt , upper , lower)
+| Day 35: Saturday, 03/05/2025 | JavaScript         | String (split , concat ) , Array (toString)
+| Day 36: Sunday,   04/05/2025 | JavaScript         |  Array (toString), concat , length , pop , push , unshift , shift , splice
+| Day 37: Saturday,   04/05/2025 | JavaScript         | Map , sort or problem solve
 
 
 
