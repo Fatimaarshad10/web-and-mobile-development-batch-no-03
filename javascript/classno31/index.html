@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #card {
+            border: 1px solid black;
+            border-radius: 10px;
+            padding: 2rem;
+            background-color: gray;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div id="card">
+
+    </div>
+    <div id="second"></div>
+    <div id="minute"></div>
+    <script>
+        // const findValue = (word , n)=>{
+        //     const length = word.length 
+        //     for (let i = length-1; i > n; i--){
+        //         console.log(word.charAt(i))
+        //     }
+        // }
+        // findValue('developer' , 4)
+
+        // Sort
+        // const fruits = ["Banana", "Orange", "Apple", "Mango"];
+        // fruits.reverse()
+        // console.log(fruits)
+
+        //  const age = [1, 4, 3, 2];
+        // age.sort();
+        // console.log(age)
+
+        // Largest Value 
+        // const numbers = [5, 3, 7, 8, 1, 5]
+        // const index = numbers.sort()
+        // Reverse
+        // const index = numbers.reverse()
+        // console.log(index[0])
+        // Length
+        // const length = index.length - 1 
+        // console.log(numbers[length])
+
+        // difference between 
+        // setTimeout()
+        // setInterval()
+        // let seconds = 0
+        // let minutes = 0
+        // let hours = 0
+        // setInterval(() => {
+        //     seconds++
+        //     document.getElementById('second').innerHTML = `<h1> Seconds: ${seconds}</h1>`
+        //     if (seconds === 10) {
+        //         minutes++
+        //         document.getElementById('minute').innerHTML = `<h1> Minutes: ${minutes}</h1>`
+        //     }
+
+        // }, 1000)
+        // const points = [40, 100, 1, 5, 25, 10];
+        // points.sort((a, b) => { return b - a });
+        // console.log(points)
+
+        const product = [{
+            id: 1,
+            name: 'dress',
+            color: 'black'
+        }, {
+            id: 2,
+            name: 'bag',
+            color: 'black'
+        }]
+       const length =  product.length
+       console.log("Length of Product:", length)
+       product.map((value , index)=>{
+        document.getElementById('card').innerHTML = `<h1>${value.id}</h1> <h2>${value.name}</h2> <p>${value.color}</p>`
+        // console.log("Product Id" , value.id)
+        // console.log("Product Name" , value.name)
+        // console.log("Product Color" , value.color)
+       })
+    </script>
+</body>
+
+</html>
