@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        //  const person = {}
+        //  console.log(person)
+        //  person.name = "noor"
+        //  console.log(person["name"])
+        // console.log(this)
+        // const username = prompt("Enter you name")
+        // console.log(username)
+        const person = {
+            "firstName": "John",
+            lastName: "Doe",
+            id: 5566,
+            fullName: function () {
+                return (person.firstName  + person.lastName)
+            }
+        };
+        console.log(person.firstName)
+        console.log(person.lastName)
+        console.log(person.id)
+        console.log(person.fullName())
+        console.log(this)
+        alert('hello')
+
+
+    </script>
+
+</body>
+
+</html>
