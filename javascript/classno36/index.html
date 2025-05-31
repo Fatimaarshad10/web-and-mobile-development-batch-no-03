@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <script>
+        // function Move() {
+        //     console.log('This is move function')
+        // }
+        // function callback (){
+        //     console.log("Hello")
+        // }
+        // Move(callback())
+
+
+        function first(second) {
+            return second
+        }
+
+        function second(value) {
+            return value
+        }
+        function third() {
+            return "third"
+        }
+        const data = first(second(third()))
+        console.log(data)
+
+
+
+
+
+
+    </script>
+</body>
+
+</html>
