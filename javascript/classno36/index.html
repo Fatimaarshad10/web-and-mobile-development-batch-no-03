@@ -1,43 +1,105 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-</head>
+  </head>
 
-<body>
+  <body>
+    <button id="myBtn">Click Me</button>
 
     <script>
-        // function Move() {
-        //     console.log('This is move function')
-        // }
-        // function callback (){
-        //     console.log("Hello")
-        // }
-        // Move(callback())
+      // function Move() {
+      //     console.log('This is move function')
+      // }
+      // function callback (){
+      //     console.log("Hello")
+      // }
+      // Move(callback())
 
+      function first(second) {
+        return second;
+      }
 
-        function first(second) {
-            return second
+      function second(value) {
+        return value;
+      }
+      function third() {
+        return "third";
+      }
+      const data = first(second(third()));
+      console.log(data);
+
+      function step1(callback) {
+        console.log("Step 1");
+        setTimeout(callback, 1000);
+      }
+
+      function step2(callback) {
+        console.log("Step 2");
+        setTimeout(callback, 1000);
+      }
+
+      function step3(callback) {
+        console.log("Step 3");
+        setTimeout(callback, 1000);
+      }
+
+      step1(() => {
+        step2(() => {
+          step3(() => {
+            console.log("All steps completed!");
+          });
+        });
+      });
+
+      //       Use real-life async examples like:
+
+      // Loading user data → fetch profile → fetch settings → display UI
+
+      const myPromise = new Promise((resolve, reject) => {
+        // Do something (like an API call or calculation)
+
+        const success = true;
+
+        if (success) {
+          resolve("✅ Task completed successfully");
+        } else {
+          reject("❌ Something went wrong");
         }
+      });
 
-        function second(value) {
-            return value
-        }
-        function third() {
-            return "third"
-        }
-        const data = first(second(third()))
-        console.log(data)
+      myPromise
+        .then((result) => {
+          console.log(result); // "✅ Task completed successfully"
+        })
+        .catch((error) => {
+          console.log(error); // "❌ Something went wrong"
+        });
 
+      //     new Promise((resolve, reject) => {
+      //     // async task
+      // })
+      // .then(result => {
+      //     // handle success
+      // })
+      // .catch(error => {
+      //     // handle failure
+      // });
 
+      const button = document.getElementById("myBtn");
 
-
-
-
+      button.addEventListener("click", function () {
+        alert("Button was clicked!");
+      });
+      //       Event Type	What It Does
+      // "click"	When user clicks
+      // "mouseover"	When mouse moves over element
+      // "mouseout"	When mouse leaves element
+      // "keydown"	When key is pressed
+      // "submit"	When a form is submitted
+      // "change"	When input value changes
     </script>
-</body>
-
+  </body>
 </html>

@@ -44,10 +44,10 @@
 | Day 35: Saturday, 03/05/2025 | JavaScript         | String (split , concat ) , Array (toString)
 | Day 36: Sunday,   04/05/2025 | JavaScript         |  Array (toString), concat , length , pop , push , unshift , shift , splice
 | Day 37: Saturday,   10/05/2025 | JavaScript       | Map , sort or problem solve
-<!-- | Day 38: Sunday,     11/05/2025 | JavaScript       | Map , sort or problem solve
+| Day 38: Sunday,     11/05/2025 | JavaScript       | Map , sort or problem solve
 | Day 39: Saturday,   17/05/2025 | JavaScript       | Map , sort or problem solve
 | Day 40: Sunday,     24/05/2025 | JavaScript       | Map , sort or problem solve
-| Day 40: Sunday,     25/05/2025 | JavaScript       | Map , sort or problem solve -->
+| Day 40: Sunday,     25/05/2025 | JavaScript       | Map , sort or problem solve
 
 
 
