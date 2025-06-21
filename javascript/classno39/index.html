@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class no 39</title>
+</head>
+
+<body>
+    <div class="card">
+
+    </div>
+    <script>
+        // const promise = new Promise((resolve , reject)=>{
+        // success = false 
+        // if(success){
+        //     resolve("Resolved")
+        // }else{
+        //     reject("Server error")
+        // }
+        // })
+        // console.log(promise)
+        // pending
+        // fullfilled
+        // rejected
+        fetch('https://jsonplaceholder.typicode.com/posts').then((result) => {
+            return result.json()
+        }).then((result) => {
+            result.map((value, index) => {
+                const card = document.getElementsByClassName('card')
+                console.log(card)
+                card.innerHTML = `<h1>${value.userId}</h1>`
+            })
+        }).catch((error) => {
+            console.log(error)
+        })
+    </script>
+</body>
+
+</html>
