@@ -36,7 +36,7 @@
 | Day 27: Saturday, 05/04/2025 | JavaScript         | Data Types , Console.log
 | Day 28: Sunday,   06/04/2025 | JavaScript         | Operators
 | Day 29: Saturday, 12/04/2025 | JavaScript         | Assignment Operator , Logical Operator
-| Day 30: Sunday,   12/04/2025 | JavaScript         | Intro Array , Object , Function 
+| Day 30: Sunday,   13/04/2025 | JavaScript         | Intro Array , Object , Function 
 | Day 31: Saturday, 19/04/2025 | JavaScript         | Hackathon html and css website
 | Day 32: Sunday,   20/04/2025 | JavaScript         | Responsive 
 | Day 33: Saturday, 26/04/2025 | JavaScript         | for , while , if else condition
@@ -44,10 +44,17 @@
 | Day 35: Saturday, 03/05/2025 | JavaScript         | String (split , concat ) , Array (toString)
 | Day 36: Sunday,   04/05/2025 | JavaScript         |  Array (toString), concat , length , pop , push , unshift , shift , splice
 | Day 37: Saturday,   10/05/2025 | JavaScript       | Map , sort or problem solve
-| Day 38: Sunday,     11/05/2025 | JavaScript       | Map , sort or problem solve
-| Day 39: Saturday,   17/05/2025 | JavaScript       | Map , sort or problem solve
-| Day 40: Sunday,     24/05/2025 | JavaScript       | Map , sort or problem solve
-| Day 40: Sunday,     25/05/2025 | JavaScript       | Map , sort or problem solve
+| Day 38: Sunday,     11/05/2025 | JavaScript       | settimeout , setIntervel
+| Day 39: Saturday,   17/05/2025 | JavaScript       | Json data Map
+| Day 40: Sunday,     24/05/2025 | JavaScript       | Object 
+| Day 41: Saturday,   31/05/2025 | JavaScript       | Input Validation , Constructor Object
+| Day 42: Saturday,   01/05/2025 | JavaScript       | Callbacks
+| -----------------> Eid Vocations --------------------> 
+| Day 43: Saturday,   14/06/2025 | Tailwind CSS     | Callback js 
+| Day 44: Saturday,   21/06/2025 | JavaScript       | Promise , Api Integration , fetch  
+| Day 45: Saturday,   22/06/2025 | Test             | Html , CSS , Bootstrap & JavaScript MCQS Test 
+
+
 
 
 
