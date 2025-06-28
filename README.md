@@ -52,8 +52,8 @@
 | -----------------> Eid Vocations --------------------> 
 | Day 43: Saturday,   14/06/2025 | Tailwind CSS     | Callback js 
 | Day 44: Saturday,   21/06/2025 | JavaScript       | Promise , Api Integration , fetch  
-| Day 45: Saturday,   22/06/2025 | Test             | Html , CSS , Bootstrap & JavaScript MCQS Test 
-| Day 46: Saturday,   22/06/2025 | JavaScript       | Destructure , type=module , spread operator 
+| Day 45: Sunday,     22/06/2025 | Test             | Html , CSS , Bootstrap & JavaScript MCQS Test 
+| Day 46: Saturday,   28/06/2025 | JavaScript       | Destructure , type=module , spread operator 
 
 
 
