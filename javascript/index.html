@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="username"></div>
+    <div id="age"></div>
+
+    <script src="./first.js" type="module"></script>
+    <script src="./second.js" type="module"></script>
+
+    <script type="module">
+        // Destructure
+        const user = {
+            name : "noor" , 
+            email : "noor@gmail.com",
+            password : null
+        }
+        let { ...username } = user
+        // Spread Operator ... 
+        console.log(username)
+
+        const product = [ "product no 0" , "product no 1" , 'product no 2' , 'product no 3']
+        let [product_no_0 , product_no_1 , product_no_2 , product_no_3 , ...spread] = product
+        console.log(product_no_0)
+        console.log(spread)
+
+        // console.log(product[1])
+        // console.log(product[2])
+
+        const name = 'javascript'
+        let [ firstChar , ...data ] = name
+        console.log(firstChar)
+        console.log(data)
+
+        // module 
+        // import export 
+
+
+
+    </script>
+</body>
+</html>
