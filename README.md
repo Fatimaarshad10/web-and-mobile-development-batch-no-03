@@ -54,6 +54,13 @@
 | Day 44: Saturday,   21/06/2025 | JavaScript       | Promise , Api Integration , fetch  
 | Day 45: Sunday,     22/06/2025 | Test             | Html , CSS , Bootstrap & JavaScript MCQS Test 
 | Day 46: Saturday,   28/06/2025 | JavaScript       | Destructure , type=module , spread operator 
+| Day 47: Sunday ,    29/06/2025 | Off Day   
+| Day 48: Saturday ,  05/07/2025 | Off Day   
+| Day 49: Sunday ,    06/07/2025 | Off Day   
+| Day 50: Saturday ,  12/07/2025 | Off Day   
+
+
+
 
 
 
