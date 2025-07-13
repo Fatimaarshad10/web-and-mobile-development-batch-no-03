@@ -57,7 +57,10 @@
 | Day 47: Sunday ,    29/06/2025 | Off Day   
 | Day 48: Saturday ,  05/07/2025 | Off Day   
 | Day 49: Sunday ,    06/07/2025 | Off Day   
-| Day 50: Saturday ,  12/07/2025 | Off Day   
+| Day 50: Saturday ,  12/07/2025 | JavaScript | local storage , cookies
+| Day 50: Saturday ,  13/07/2025 | React | Installation , folder structure
+
+
 
 
 

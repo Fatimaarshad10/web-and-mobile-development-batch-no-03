@@ -1,0 +1,43 @@
+1- node js install
+2- nodev22.exe run (Add to path) 
+
+Check Versions
+
+1 Search window write (cmd / terminal) --> black screen
+2 node --version
+3 npm --version
+
+
+First React app 
+1 desktop--> top search --> write cmd/terminal -->
+2 npx create-react-app first-class
+
+Visual studio code 
+1 file --> open folder --> desktop--> pick first-class
+2 terminal command (Shift + ctrl + `) 
+3 for start command (npm start)
+
+
+
+Folder React js
+No delete 
+1 node_modules
+2 package.json ( dependy ---> installation of packages)
+3 package-lock.json 
+
+1 public folder 
+2 file name (index.html)
+3 <div id='root'> </div>
+
+
+1 src folder 
+2 index.js 
+import ReactDOM from 'react-dom/client';
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <> 
+  <h1>React js</h1>
+  </>
+);
+
+Delete all file
