@@ -58,8 +58,9 @@
 | Day 48: Saturday ,  05/07/2025 | Off Day   
 | Day 49: Sunday ,    06/07/2025 | Off Day   
 | Day 50: Saturday ,  12/07/2025 | JavaScript | local storage , cookies
-| Day 50: Sunday ,  13/07/2025 | React | Installation , folder structure
-| Day 50: Saturday ,    19/07/2025 | React | How to create the component & style implement
+| Day 51: Sunday ,  13/07/2025 | React | Installation , folder structure
+| Day 52: Saturday ,    19/07/2025 | React | How to create the component & style implement
+| Day 53: Sunday ,    20/07/2025 | React | Revise all topics
 
 
 
