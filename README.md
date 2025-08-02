@@ -63,6 +63,10 @@
 | Day 53: Sunday ,    20/07/2025 | React | Revise all topics
 | Day 54: Saturday ,  26/07/2025 | React | React Router Dom , React Bootstrap , Navbar
 | Day 55: Sunday ,    27/07/2025 | React | Map , JSX,JS , Json data , Virtual Dom
+| Day 56: Saturday ,  02/08/2025 | React | State , hooks(useState) , tailwind css integration
+---Meeting 1 hour : Javascript topic (DOM , Module)
+
+
 
 
 
