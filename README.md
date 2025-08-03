@@ -64,7 +64,11 @@
 | Day 54: Saturday ,  26/07/2025 | React | React Router Dom , React Bootstrap , Navbar
 | Day 55: Sunday ,    27/07/2025 | React | Map , JSX,JS , Json data , Virtual Dom
 | Day 56: Saturday ,  02/08/2025 | React | State , hooks(useState) , tailwind css integration
----Meeting 1 hour : Javascript topic (DOM , Module)
+| Meeting 1 hour : Javascript topic (DOM , Module)
+| Day 57: Sunday ,    03/08/2025 | React | UseEffect , Font Awesome Icons
+
+
+
 
 
 
