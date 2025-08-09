@@ -66,6 +66,8 @@
 | Day 56: Saturday ,  02/08/2025 | React | State , hooks(useState) , tailwind css integration
 | Meeting 1 hour : Javascript topic (DOM , Module)
 | Day 57: Sunday ,    03/08/2025 | React | UseEffect , Font Awesome Icons
+| Day 58: Saturday ,  09/08/2025 | React | OnChange , OnSubmit
+
 
 
 
