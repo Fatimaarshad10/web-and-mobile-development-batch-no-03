@@ -67,6 +67,8 @@
 | Meeting 1 hour : Javascript topic (DOM , Module)
 | Day 57: Sunday ,    03/08/2025 | React | UseEffect , Font Awesome Icons
 | Day 58: Saturday ,  09/08/2025 | React | OnChange , OnSubmit
+| Day 58: Sunday ,    10/08/2025 | React | Props , props drilling
+
 
 
 
