@@ -70,6 +70,12 @@
 | Day 59: Sunday ,    10/08/2025 | React | Props , props drilling
 | Day 60: Saturday ,  16/08/2025 | Firebase | Authentication
 | Day 61: Sunday ,    17/08/2025 | Firebase | Authentication Complete
+| Day 62: Saturday ,  23/08/2025 | GitHub   | Commit , push , pull , merge  
+| Day 63: Sunday ,    24/08/2025 | Firebase | Firestore Complete
+| Day 64: Saturday ,  30/08/2025 | Off      | Rainy day 
+
+
+
 
 
 
