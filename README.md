@@ -73,6 +73,8 @@
 | Day 62: Saturday ,  23/08/2025 | GitHub   | Commit , push , pull , merge  
 | Day 63: Sunday ,    24/08/2025 | Firebase | Firestore Complete
 | Day 64: Saturday ,  30/08/2025 | Off      | Rainy day 
+| Day 65: Sunday ,    31/08/2025 | Firebase | Hosting done 
+
 
 
 
