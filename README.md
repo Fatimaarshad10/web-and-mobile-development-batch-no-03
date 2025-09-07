@@ -74,6 +74,10 @@
 | Day 63: Sunday ,    24/08/2025 | Firebase | Firestore Complete
 | Day 64: Saturday ,  30/08/2025 | Off      | Rainy day 
 | Day 65: Sunday ,    31/08/2025 | Firebase | Hosting done 
+| Day 66: Saturday ,  06/09/2025 | off      | off
+| Day 66: Saturday ,  07/09/2025 | Backend  | Node js , Express js
+
+
 
 
 
