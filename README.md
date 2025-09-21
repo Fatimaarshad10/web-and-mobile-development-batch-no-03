@@ -79,6 +79,8 @@
 | Day 68: Saturday ,  13/09/2025 | Backend  | Express js , postman
 | Day 69: Sunday ,    14/09/2025 | Backend  | Hackathon
 | Day 70: Saturday ,  20/09/2025 | Backend  | Post , middleware
+| Day 71: Sunday ,  21/09/2025 | off      | off
+
 
 
 
