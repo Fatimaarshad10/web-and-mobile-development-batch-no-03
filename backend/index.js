@@ -1,5 +1,5 @@
 import express from 'express'
-
+import userRouter from './routes/userRoutes'
 const app = express()
 
 const student = [{
@@ -19,6 +19,9 @@ const student = [{
 
 // middle ware
 app.use(express.json()); 
+app.use('/new/user' ,userRouter)
+
+
 
 
 app.get('/user', (req,res) => {
