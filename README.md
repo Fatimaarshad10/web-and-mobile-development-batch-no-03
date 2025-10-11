@@ -81,6 +81,14 @@
 | Day 70: Saturday ,  20/09/2025 | Backend  | Post , middleware
 | Day 71: Sunday ,    21/09/2025 | off      | off
 | Day 72: Saturday ,  27/09/2025 | Backend  | Folder structure in detail
+| Day 73: Sunday ,    28/09/2025 | Backend  | OFF DAY
+| Day 74: Saturday ,  04/10/2025 | Backend  | Mongodb Connection
+| Day 75: Sunday ,    05/10/2025 | Backend  | Mongodb Connection
+| Day 76: Saturday ,  11/10/2025 | Backend  | Post User , Post Product
+| Day 77: Sunday ,    12/10/2025 | Backend  | Delete , Update (put , patch)
+
+
+
 
 
 
