@@ -87,7 +87,7 @@
 | Day 76: Saturday ,  11/10/2025 | Backend  | Post User , Post Product
 | Day 77: Sunday ,    12/10/2025 | Backend  | Delete , Update (put , patch)
 | Day 78: Sunday ,    18/10/2025 | Backend  | Generate JWT , Verify Token
-| Day 79: Sunday ,    19/10/2025 | Admission Test  | Off Day
+| Day 79: Sunday ,    19/10/2025 | Admission Test  | Off Day 
 
 
 
