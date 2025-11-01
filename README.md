@@ -86,8 +86,13 @@
 | Day 75: Sunday ,    05/10/2025 | Backend  | Mongodb Connection
 | Day 76: Saturday ,  11/10/2025 | Backend  | Post User , Post Product
 | Day 77: Sunday ,    12/10/2025 | Backend  | Delete , Update (put , patch)
-| Day 78: Sunday ,    18/10/2025 | Backend  | Generate JWT , Verify Token
+| Day 78: Saturday ,  18/10/2025 | Backend  | Generate JWT , Verify Token
 | Day 79: Sunday ,    19/10/2025 | Admission Test  | Off Day 
+| Day 79: Saturday ,  25/10/2025 | Backend   | Bycrpt Password
+| Day 79: Sunday ,    26/10/2025 | Backend   | Auth api's integration
+| Day 79: Saturday ,  01/11/2025 | Backend   | Full Ecommerce Website clone (Backend & Frontend understanding)
+
+
 
 
 
