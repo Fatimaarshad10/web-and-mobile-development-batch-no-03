@@ -91,6 +91,8 @@
 | Day 79: Saturday ,  25/10/2025 | Backend   | Bycrpt Password
 | Day 79: Sunday ,    26/10/2025 | Backend   | Auth api's integration
 | Day 79: Saturday ,  01/11/2025 | Backend   | Full Ecommerce Website clone (Backend & Frontend understanding)
+| Day 79: Saturday ,  02/11/2025 | Backend   | Socket Io , Multer
+
 
 
 
