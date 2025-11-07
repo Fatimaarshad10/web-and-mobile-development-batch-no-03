@@ -1,10 +1,15 @@
 import User from '../model/userSchema.js'
-import { generateToken, verifyToken } from '../helper/helper.js';
+import bcrypt from 'bcrypt'
+import { generateToken, verifyToken } from '../helper/jwt.js'
+
+
 
 export const createUser = async (req, res) => {
     try {
-        const body = req.body
-        const data = await new User(body).save()
+        let {username , email , password} = req.body
+        const hashpassword = await bcrypt.hash(password , 10)
+        password = hashpassword
+        const data = await new User({username , email , password}).save()
         res.json(' User is created')
     }
     catch (error) {
@@ -16,15 +21,12 @@ export const loginUser = async (req, res) => {
     try {
         const { email } = req.body
         const existingUser = await User.findOne({ email });
-        
+
         // Generate token
         const token = await generateToken(existingUser._id)
-        const userData = await verifyToken(token)
 
-
-
-        if (userData) {
-            res.json({ userData });
+        if (token) {
+            res.json({ token });
         } else {
             res.json(' Register yourself')
 
@@ -32,5 +34,15 @@ export const loginUser = async (req, res) => {
     }
     catch (error) {
         console.log(error)
+    }
+}
+
+
+export const getUsers = async (req, res) => {
+    try {
+        const data = await User.find()
+        res.json({ data })
+    } catch (error) {
+        res.json(error)
     }
 }

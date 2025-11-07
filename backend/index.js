@@ -7,19 +7,13 @@ dotenv.config()
 
 const app = express()
 
+
 // middle ware
 app.use(express.json()); 
 app.use(cors())
 
-// Routing
 app.use('/user',  userRouter)
 
-
-
-
-
-
-// Mongodb connection
 mongoose.connect(
     process.env.MONGODB_URI, 
     {
@@ -28,7 +22,7 @@ mongoose.connect(
     }
 );
 
-// App listening 
 app.listen('4001', () => {
     console.log("Server is running on this port no 4001")
 })
+
