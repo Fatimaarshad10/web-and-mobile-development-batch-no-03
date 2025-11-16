@@ -92,7 +92,9 @@
 | Day 81: Sunday ,    26/10/2025 | Backend   | Auth api's integration
 | Day 82: Saturday ,  01/11/2025 | Backend   | Full Ecommerce Website clone (Backend & Frontend understanding)
 | Day 83: Sunday ,    02/11/2025 | Backend   | Socket Io , Multer
-<!-- | Day 84: Saturday ,  08/11/2025 | Backend   | Socket Io Client side integration -->
+| Day 84: Saturday ,  08/11/2025 | Backend   | Socket Io Client side integration
+| Day 85: Sunday ,    16/11/2025 | Expo React Natuve   | Setup, Layout , Routes , View, ScrollView , PageView, Image
+
 
 
 
