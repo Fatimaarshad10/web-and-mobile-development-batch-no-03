@@ -94,6 +94,10 @@
 | Day 83: Sunday ,    02/11/2025 | Backend   | Socket Io , Multer
 | Day 84: Saturday ,  08/11/2025 | Backend   | Socket Io Client side integration
 | Day 85: Sunday ,    16/11/2025 | Expo React Natuve   | Setup, Layout , Routes , View, ScrollView , PageView, Image
+| Day 85: Sunday ,    16/11/2025 | Expo React Natuve   | Setup, Layout , Routes , View, ScrollView , PageView, Image
+| Day 85: Sunday ,    16/11/2025 | Expo React Natuve   | Setup, Layout , Routes , View, ScrollView , PageView, Image
+| Day 85: Sunday ,    16/11/2025 | Expo React Natuve   | Setup, Layout , Routes , View, ScrollView , PageView, Image
+
 
 
 
