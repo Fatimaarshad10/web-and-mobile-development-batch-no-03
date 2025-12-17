@@ -96,6 +96,10 @@
 | Day 85: Sunday ,    16/11/2025 | Expo React Native   | Setup, Layout , Routes , View, ScrollView , PageView, Image
 | Day 86: Sunday ,    16/11/2025 | Expo React Native   | Tabs, Nativewind , React Native Paper
 | Day 87: Sunday ,    30/11/2025 | Expo React Native   | Pokemon App, Practice
+| Day 88: Sunday ,    07/12/2025 | LinkedIn job marketing   | How to target the linkedIn jobs
+| Day 89: Sunday ,    14/12/2025 | Upwork Profile & Proposal   | How to optimize the upwork profile
+
+
 
 
 
